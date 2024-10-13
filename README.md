@@ -9,7 +9,7 @@
  
   [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
  <a href="255756530143">
- <img alt="Hans 𝕄𝔻 𝕍1" height="300" src="https://https://i.imgur.com/lfqWcEv.jpeg">
+ <img alt="Hans 𝕄𝔻 𝕍1" height="300" src="https://i.imgur.com/lfqWcEv.jpeg">
  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
   
 </h1> 
