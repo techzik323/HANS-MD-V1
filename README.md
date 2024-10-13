@@ -8,8 +8,8 @@
  </p>
  
   [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
- <a href="https://chat.whatsapp.com/Ia4V8wnwCIjLYaVI3FVHb4">
- <img alt="Hans 𝕄𝔻 𝕍1" height="300" src="https://telegra.ph/file/347ba7a613b4d025b89a8.jpg">
+ <a href="255756530143">
+ <img alt="Hans 𝕄𝔻 𝕍1" height="300" src="https://https://i.imgur.com/lfqWcEv.jpeg">
  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
   
 </h1> 
