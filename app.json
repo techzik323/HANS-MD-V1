@@ -1,9 +1,9 @@
 {
-  "name":"BONIPHACE-MD",
-  "description":"Best whatsapp bot developed by Boniphace Tech",
+  "name":"HANS-MD",
+  "description":"Best whatsapp bot developed by Hans Tech",
   "keywords":["bot","node","baileys","whatsapp"],
-  "logo":"https://files.catbox.moe/3vzjsl.jpeg",
-  "repository":"https://github.com/Galaxy680/BONIPHACE-MD-1",
+  "logo":"https://i.imgur.com/lfqWcEv.jpeg",
+  "repository":"https://github.com/HANSTZ3/HANS-MD-V1",
   "succes_url":"/",
   "stack":"container",
   "env":{
@@ -35,14 +35,14 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"BONIPHACE-��������",
+      "value":"HANSTZ-��������",
       "required":false
 
     } ,
      "BOT_MENU_LINKS" : {
     
       "description":"add one or many link for your bot menu  ; eg : url1,url2,url3.....",
-      "value":"https://files.catbox.moe/ph6pml.jpeg",
+      "value":"https://i.imgur.com/lfqWcEv.jpeg",
       "required":false
        
      },
@@ -74,14 +74,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "BONIPHACE"
+    "value": "HANSTZ"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "255716661569"
+    "value": "255756530143"
   },
     "WARN_COUNT":
   {
